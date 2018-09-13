@@ -6,9 +6,8 @@ import grails.gorm.transactions.Transactional
 class TestService {
 
     def index() {
-        //def company = CompanyEnt.get(5)
-        def company = CompanyEnt.findByName('iancode')
-        company.name = 'iancom'
+        def company = CompanyEnt.get(5)
+        company.name = 'iancode'
         company.save(failOnError: true)
         return company
     }
