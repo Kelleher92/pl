@@ -1,6 +1,6 @@
 package pl
 
-class Company {
+class CompanyEnt {
     static mapping = {
         table 'company'
         id column: 'id'
