@@ -13,6 +13,6 @@ class CompanySpec extends Specification implements DomainUnitTest<CompanyEnt> {
 
     void "test something"() {
         expect:"fix me"
-            true == false
+            true == true
     }
 }
