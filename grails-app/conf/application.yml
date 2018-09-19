@@ -103,9 +103,9 @@ environments:
             pooled: true
             DriverClassName: com.mysql.jdbc.Driver
             dialect: org.hibernate.dialect.MySQL5InnoDBDialect
-            username: jsggjqym4nqn0fga
-            password: joe9s6n4j01rzsy3
-            url: jdbc:mysql:nivk0hz7m5elq4ql.chr7pe7iynqr.eu-west-1.rds.amazonaws.com:3306/uml0hlpwmjg9lcls?autoReconnect=true&useSSL=false&allowMultiQueries=true&useUnicode=yes
+            username: xnfzokj88e4czgmf
+            password: l0sa2943ehrj2fky
+            url: jdbc:mysql:w29ifufy55ljjmzq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/mto9u3wonxixw1tj?autoReconnect=true&useSSL=false&allowMultiQueries=true&useUnicode=yes
             properties:
                 jmxEnabled: true
                 initialSize: 5
